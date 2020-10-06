@@ -34,6 +34,6 @@ This demo was moved into this repository during 2020.1 updates. Its history prio
 The following are required for use of this demo. For more information on how to get any hardware or software you may be missing, see the Demo Page, linked above.
 
 * Arty A7-100T
-* Vivado and Vitis 2020.1 Installations
+* Vivado 2020.1 Installation
 * Serial Terminal
 * MicroUSB Cable
