@@ -40,7 +40,7 @@ The following are required for use of this demo. For more information on how to 
 
 * Arty A7-35T
 * Pmod VGA 
-* Vivado 2021.1 Installation
+* Vivado 2022.1 Installation
 * MicroUSB cable
 * VGA Monitor
 * VGA Cable
