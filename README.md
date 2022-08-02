@@ -28,6 +28,8 @@ Some demos do not require some submodules, in these cases, they are still provid
 | Submodule | Used by this demo |
 |-----------|-------------------|
 | HW        | Yes          |
+| OS        | No          |
+| SW        | No          |
 
 This demo was moved into this repository during 2020.1 updates. Its history prior to these updates can be found in its old repository, linked below:
 * https://github.com/Digilent/Arty-A7-35-Pmod-VGA/
@@ -38,7 +40,7 @@ The following are required for use of this demo. For more information on how to 
 
 * Arty A7-35T
 * Pmod VGA 
-* Vivado 2020.1 Installation
+* Vivado 2021.1 Installation
 * MicroUSB cable
 * VGA Monitor
 * VGA Cable
