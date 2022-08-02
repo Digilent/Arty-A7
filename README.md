@@ -48,6 +48,6 @@ This demo was moved into this repository during 2020.1 updates. Its history prio
 The following are required for use of this demo. For more information on how to get any hardware or software you may be missing, see the Demo Page, linked above.
 
 * Arty A7-35T
-* Vivado 2021.1 Installation
+* Vivado 2022.1 Installation
 * MicroUSB cable
 * Wires and a circuit to measure
